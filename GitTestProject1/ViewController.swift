@@ -22,6 +22,8 @@ class ViewController: UIViewController {
         
         print("たちつてと")
         
+        print("なにぬねの！！")
+        
         // Do any additional setup after loading the view.
     }
 
